@@ -28,40 +28,11 @@ Rather than requiring multi wavelength hardware redesigns, a pure mathematical c
 ### Core Pipeline (6 Functional Blocks)
 
 ```text
-[Dual-Wavelength PPG Stream: RED 660nm + IR 940nm]
-                          │
-                          ▼
-┌─────────────────────────────────────┐
-│ 1. AC/DC Decomposition & Filtering  │──► Isolates cardiac
-└─────────────────────────────────────┘    cycle from noise
-│
-▼
-┌─────────────────────────────────────┐
-│ 2. Perfusion Index (PI) Validation  │──► Flags weak-signal
-└─────────────────────────────────────┘    conditions
-│
-▼
-┌─────────────────────────────────────┐
-│ 3. Dynamic Melanin Index Estimation │──► Quantifies tissue
-└─────────────────────────────────────┘    pigmentation
-│
-▼
-┌─────────────────────────────────────┐
-│ 4. Adaptive R-Value Correction      │──► Balances optical
-└─────────────────────────────────────┘    ratios dynamically
-│
-▼
-┌─────────────────────────────────────┐
-│ 5. Empirical SpO2 Calibration Curve │──► Translates R to
-└─────────────────────────────────────┘    clinical saturation
-│
-▼
-┌─────────────────────────────────────┐
-│ 6. Safety Gate & Quality Flag Output│──► Rejects corrupted
-└─────────────────────────────────────┘    measurement windows
-│
-▼
-[Verified Clinical SpO2 Output + Quality Flag]
+<p align="center">
+  <img src="./images/spo2_pipeline.png" width="750"/>
+  <br/>
+  <em>Figure 2: Melanin-compensated SpO₂ signal processing pipeline</em>
+</p>
 ```
 ---
 
