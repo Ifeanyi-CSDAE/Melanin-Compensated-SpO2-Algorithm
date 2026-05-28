@@ -29,8 +29,8 @@ Rather than requiring multi wavelength hardware redesigns, a pure mathematical c
 
 ```text
 [Dual-Wavelength PPG Stream: RED 660nm + IR 940nm]
-│
-▼
+                          │
+                          ▼
 ┌─────────────────────────────────────┐
 │ 1. AC/DC Decomposition & Filtering  │──► Isolates cardiac
 └─────────────────────────────────────┘    cycle from noise
