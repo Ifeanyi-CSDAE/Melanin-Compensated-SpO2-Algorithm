@@ -115,6 +115,4 @@ For technical discussions or collaboration enquiries:
 
 **Ifeanyichukwu Obidike**
 
-Founder, Anyionic Technologies
-
 [LinkedIn](https://www.linkedin.com/in/ifeanyichukwu-obidike-532200199)
