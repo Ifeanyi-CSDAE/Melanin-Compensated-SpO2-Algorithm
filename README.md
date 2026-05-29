@@ -1,4 +1,4 @@
-# Melanin Compensated SpO2 Algorithm Core (SiMD)
+# Melanin Compensated SpO2 Algorithm (SiMD)
 
 [![Compliance](https://img.shields.io/badge/Regulatory-IEC_62304_Class_B-blue.svg)](#)
 [![Framework](https://img.shields.io/badge/Design-Model--Based_Design-orange.svg)](#)
