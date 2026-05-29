@@ -76,7 +76,7 @@ introducing measurement inaccuracy in light or medium skin tones
 
 ✅ Requirements specification complete (URS + SRS, 50 requirements)
 
-✅ Full bidirectional traceability (URS → SRS → Design → Verification)
+✅ Full bidirectional traceability (`URS` ↔️ `SRS` ↔️ `Design` ↔️ `Verification`)
 
 ✅ MATLAB algorithm prototyping complete (6 blocks)
 
