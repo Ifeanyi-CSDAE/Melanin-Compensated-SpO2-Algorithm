@@ -76,7 +76,6 @@ introducing measurement inaccuracy in light or medium skin tones
 ✅ Production C++ code generation complete (Embedded Coder)
 ✅ Performance verification complete (ARMS = 2.35%)
 🔄 Full DHF documentation in progress
-🔄 Clinical validation on diverse skin tones — planned
 
 ---
 
@@ -95,7 +94,7 @@ high-level architectural documentation only.
 > **IP Notice:** Proprietary model logic (`.slx`), calibration 
 > parameter scripts (`.m`), correction coefficients, and 
 > generated C++ source files are explicitly excluded to 
-> safeguard Anyionic Technologies intellectual property.
+> safeguard Anyionic Technologies' intellectual property.
 
 ---
 
