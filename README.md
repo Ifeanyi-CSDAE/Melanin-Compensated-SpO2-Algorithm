@@ -17,7 +17,7 @@ This causes occult hypoxemia, a clinically dangerous condition where a monitor f
 
 ---
 
-## 🚀 The Solution: Software-Defined Compensation
+## 🚀 The Solution: Algorithm Defined Compensation
 
 Rather than requiring multi wavelength hardware redesigns, a pure mathematical compensation engine was developed to optimize existing hardware. By evaluating realtime non-pulsatile optical attenuation, the algorithm dynamically classifies tissue properties and balances optical ratios without modifying any optoelectronic components.
 
