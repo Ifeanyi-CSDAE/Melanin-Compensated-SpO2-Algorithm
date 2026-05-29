@@ -105,7 +105,7 @@ high level architectural documentation only.
 > **IP Notice:** Proprietary model logic (`.slx`), calibration 
 > parameter scripts (`.m`), correction coefficients, and 
 > generated C++ source files are explicitly excluded to 
-> safeguard Anyionic Technologies' intellectual property.
+> safeguard intellectual property.
 
 ---
 
