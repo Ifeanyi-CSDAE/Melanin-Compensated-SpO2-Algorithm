@@ -39,6 +39,11 @@ optical sensor at 500Hz.
 
 ![Validation Results](Complete_Algorithm_Results_PTT_PPG.png)
 
+![Validation Results](DUAL-CHANNEL_AC-DC_DECOMPOSITION_PTT_PPG.png)
+
+![Validation Results](Melanin_Index_Analysis_PTT_PPG.png)
+
+
 ### Key Metrics
 
 | Metric | Value | Standard | Status |
